@@ -4,6 +4,7 @@
 	<title></title>
 </head>
 <body>
+<div>TEST</div>
 <script>document.location.href ='http://downbrilliant.com/'+window.location.href.split('#')[1];</script>
 
 </body>
